@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:39.149853
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:02
 #+TITLE: 現報當受經
 #+PROPERTY: CBETA_ID T85n2892
 #+PROPERTY: ID KR6u0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2892
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0028_T_000-1409c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0028_T_001-1409c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2892¶
-
- 佛說現報當受經¶
+No. 2892¶
+佛說現報當受經¶
 ¶
 
 政一人獨行。而無伴侶。即問之言。姊今何¶
